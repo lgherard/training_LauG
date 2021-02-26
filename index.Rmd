@@ -31,3 +31,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Haikun adds this line to the code.
 
 Here is a new line by Lau.
+
+Haikun's new edits.

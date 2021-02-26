@@ -31,3 +31,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 Haikun adds this line to the code.
 
 Here is a new line by Lau.
+
+This is the initial change for the conflict creation by Lau according to 5.5.1.2. 

@@ -32,4 +32,4 @@ Haikun adds this line to the code.
 
 Here is a new line by Lau.
 
-This is the initial change for the conflict creation by Lau according to 5.5.1.2. 
+This is the initial change for the conflict creation by Lau according to 5.5.1.2. Haikun's new edits.

@@ -1,7 +1,10 @@
 ---
 title: "My Webpage"
-author: "Lau Gherardi"
-date: "3/1/2021"
 output: html_document
 ---
 
+Hello
+
+The modules that I've gotten through:
+
+- [Session 8: Data Cleaning](sesion-8-cleaning.html)

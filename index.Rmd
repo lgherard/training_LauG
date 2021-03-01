@@ -8,4 +8,4 @@ Hello
 The modules that I've gotten through:
 
 - [Session 8: Data Cleaning](sesion-8-cleaning.html)
-- [RMarkdown Intro](rmarkdown-intro.html)
+- [RMarkdown Intro](sesion-8-cleaning.html)

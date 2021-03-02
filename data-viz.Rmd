@@ -71,6 +71,8 @@ ggplot(annual_esc, aes(x = Year, y = escapement, color = Species)) +
   facet_wrap(~ SASAP.Region, scales = "free_y", ncol = 2) +
   ylab("Escapement") +
   my_theme
+
+ggsave("chart.png")
 ```
 
 ```{r}
